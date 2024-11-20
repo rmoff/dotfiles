@@ -1,0 +1,3 @@
+brew install chezmoi
+chezmoi init --apply rmoff
+brew install --cask font-monaspace
