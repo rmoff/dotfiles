@@ -1,0 +1,70 @@
+1Password.app
+Acorn.app
+Android File Transfer.app
+Arc.app
+Audacity.app
+Beeper.app
+Blackmagic Cameras
+Blackmagic RAW
+Bluetooth+.app
+Claude.app
+DBeaver.app
+DaisyDisk.app
+Discord.app
+Docker.app
+Drafts.app
+Fantastical.app
+Firefox.app
+GIPHY CAPTURE.app
+Garmin BaseCamp.app
+Garmin Express.app
+Garmin MapInstall.app
+Garmin MapManager.app
+Google Chrome.app
+IntelliJ IDEA CE.app
+JumpCloud Remote Assist.app
+Karabiner-Elements.app
+Karabiner-EventViewer.app
+Keynote.app
+LICEcap.app
+Little Snitch.app
+Logitech Presentation
+Microsoft PowerPoint.app
+Microsoft Word.app
+NextDNS.app
+Notchmeister.app
+Numbers.app
+Obsidian.app
+OpenMTP.app
+OpenVPN Connect
+OpenVPN Connect.app
+OrbStack.app
+Plex.app
+Plexamp.app
+Postman.app
+Private Internet Access.app
+Raindrop.io.app
+Raspberry Pi Imager.app
+Raycast.app
+Reolink.app
+Safari.app
+Setapp
+Setapp.app
+Shure
+Signal.app
+Slack.app
+Snagit 2018.app
+Sonos.app
+Spotify.app
+Steam.app
+Telegram.app
+TigerVNC Viewer 1.14.1.app
+Utilities
+VLC.app
+Visual Studio Code.app
+WezTerm.app
+WiFiman Desktop.app
+Wireshark.app
+calibre.app
+macSVG.app
+zoom.us.app
