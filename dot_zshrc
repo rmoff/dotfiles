@@ -125,3 +125,4 @@ export EDITOR=nvim
 export MANPAGER='less -isXF'
 export AWS_PAGER='less -isXF'
 export TLDR_AUTO_UPDATE_DISABLED=1
+export DISABLE_AUTO_UPDATE="true"
